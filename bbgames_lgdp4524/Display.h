@@ -22,7 +22,7 @@
 #define RD_PIN P1_7
 #define RST_PIN P1_0
 // Assumption: Top left of display is 0,0
-// Screen is 240 wide and 320 high
+// Screen is 176 wide and 220 high
 #define SCREEN_WIDTH 176
 #define SCREEN_HEIGHT 220
 // Define a macro to allow easy definition of colours
